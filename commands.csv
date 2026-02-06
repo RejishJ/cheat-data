@@ -1,0 +1,5 @@
+tool,command,description,tags
+git,git status,Show current git working tree status,repo state branch
+linux,ls -a,List hidden file/dir,ls list hidden
+linux,tree,List file/dirs in tree view,tree list
+linux,ls -l,"detailed list, shows rwx permisstions and date",list rwx detailed date
