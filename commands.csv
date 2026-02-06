@@ -3,3 +3,5 @@ git,git status,Show current git working tree status,repo state branch
 linux,ls -a,List hidden file/dir,ls list hidden
 linux,tree,List file/dirs in tree view,tree list
 linux,ls -l,"detailed list, shows rwx permisstions and date",list rwx detailed date
+git,"git config --globalORlocal user.nameORemail """"",This info will be associated wil all your commits,git commit name email gmail config
+git,git config --list,verify your settings,git config list ls email gmail name
